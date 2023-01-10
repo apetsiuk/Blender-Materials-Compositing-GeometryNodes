@@ -1,2 +1,2 @@
-# blender_doodles
+# blender_generic
 generative blender design
