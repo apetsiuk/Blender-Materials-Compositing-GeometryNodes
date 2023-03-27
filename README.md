@@ -1,4 +1,4 @@
-# blender_generic
+# Blender Generative Design
 
 upd
 
