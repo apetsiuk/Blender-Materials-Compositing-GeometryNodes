@@ -8,7 +8,7 @@ Tested in v3.4.1. All the materials are procedural.
 
 | Material  | Image | Node  | Material | Image | Node |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Shiny plastic](https://www.youtube.com/watch?v=vJZsTG2bUF4&ab_channel=blenderian)  | <img src="materials/default.png"/> | <img src="materials/nodes.png"/> | [Translucent plastic](https://www.youtube.com/watch?v=vJZsTG2bUF4&ab_channel=blenderian)  | <img src="materials/default.png"/>  | <img src="materials/nodes.png"/> |
+| [Shiny plastic](https://www.youtube.com/watch?v=vJZsTG2bUF4&ab_channel=blenderian)  | <img src="materials/shiny_plastic.png"/> | <img src="materials/nodes.png"/> | [Translucent plastic](https://www.youtube.com/watch?v=vJZsTG2bUF4&ab_channel=blenderian)  | <img src="materials/translucent_plastic.png"/>  | <img src="materials/nodes.png"/> |
 | [Scratched Plastic](https://www.youtube.com/watch?v=l0whu3494_c&ab_channel=RyanKingArt)  | Image  | Node  | [Worn rubber](https://www.youtube.com/watch?v=bseCQqzT-b8&ab_channel=blenderbitesize)  | Image  | Node  |
 | [Glass1](https://www.youtube.com/watch?v=bIL1bvCwzlQ&ab_channel=NazariyD)  | Image  | Node  | [Glass2](https://www.youtube.com/watch?v=Upt8JaqtVxg&ab_channel=atti)  | Image  | Node  |
 | [Emissive](https://www.youtube.com/watch?v=Z3uCdffFq4E&ab_channel=Ducky3D) | Image  | Node  | [Glitter](https://www.youtube.com/watch?v=tUJ8m2WEvnE&ab_channel=Farrukh3D) | Image  | Node  |
