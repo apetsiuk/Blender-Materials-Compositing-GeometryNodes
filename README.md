@@ -4,9 +4,9 @@ Tested in v3.4.1. All the materials are procedural.
 
 ### Materials collection
 
-[Top 6 Blender Nodes To Make Any Material in Blender](https://www.youtube.com/watch?v=yffWd4kI51Q&ab_channel=CGCookie)
+[Top 6 Blender Nodes To Make Any Material in Blender](https://www.youtube.com/watch?v=yffWd4kI51Q&ab_channel=CGCookie) by CGCookie.
 
-| Material  | Image | Node  | Material | Image | Node |
+| Material  | Image | Nodes  | Material | Image | Nodes |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Shiny plastic](https://www.youtube.com/watch?v=vJZsTG2bUF4&ab_channel=blenderian)  | <img src="materials/shiny_plastic.png"/> | <img src="materials/shiny_plastic_nodes.png"/> | [Translucent plastic](https://www.youtube.com/watch?v=vJZsTG2bUF4&ab_channel=blenderian)  | <img src="materials/translucent_plastic.png"/>  | <img src="materials/translucent_plastic_nodes.png"/> |
 | [Scratched Plastic](https://www.youtube.com/watch?v=l0whu3494_c&ab_channel=RyanKingArt)  | Image  | Node  | [Worn rubber](https://www.youtube.com/watch?v=bseCQqzT-b8&ab_channel=blenderbitesize)  | Image  | Node  |
@@ -17,7 +17,7 @@ Tested in v3.4.1. All the materials are procedural.
 | [Car paint](https://www.youtube.com/watch?v=KWoN_or89yE&ab_channel=RyanKingArt)  | Image  | Node  | [Edge wear](https://www.youtube.com/watch?v=VvifA9DKk5U&ab_channel=KylsonnBatista)  | Image  | Node  |
 | [Marble](https://www.youtube.com/watch?v=wTzk9T06gdw&ab_channel=RyanKingArt)  | Image  | Node  | [Liquid paint](https://www.youtube.com/watch?v=A6PasPeE3KU&ab_channel=GTMDesigns)  | Image  | Node  |
 | [Oxidised Copper](https://www.youtube.com/watch?v=WLjC43Xrqrc&ab_channel=PIXXO3D) | Image  | Node  | [Clay](https://www.youtube.com/watch?v=3KOF7ZnkWsQ&ab_channel=Smeaf)  | Image  | Node  |
-| [Granite](https://www.youtube.com/watch?v=bPaZYBFE8dY&ab_channel=RyanKingArt)  | Image  | Node  | [(Mossy dirt](https://www.youtube.com/watch?v=WAC_amUh__w&ab_channel=RyanKingArt)  | Image  | Node  |
+| [Granite](https://www.youtube.com/watch?v=bPaZYBFE8dY&ab_channel=RyanKingArt)  | Image  | Node  | [Mossy dirt](https://www.youtube.com/watch?v=WAC_amUh__w&ab_channel=RyanKingArt)  | Image  | Node  |
 | [Thin film](https://www.youtube.com/watch?v=8rYf_Gw_5Zw&ab_channel=AlbosX)  | Image  | Node  | [Iridescent](https://www.youtube.com/watch?v=pfqdbw5vWG0&ab_channel=KamilKrb)  | Image  | Node  |
 | [Pearl](https://www.youtube.com/watch?v=8Yf1dWZiNrE&ab_channel=blenderbitesize)  | Image  | Node  | [Nacre](https://www.youtube.com/watch?v=DJuZBL4-dBc&ab_channel=thesparkofart)  | Image  | Node  |
 | [Ice](https://www.youtube.com/watch?v=EUvNwscez-w&ab_channel=DefaultCube) | Image  | Node  | [Oil](https://www.youtube.com/watch?v=xcx_LfXuuX4&ab_channel=CartesianCaramel)  | Image  | Node  |
