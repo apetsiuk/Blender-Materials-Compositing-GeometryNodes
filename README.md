@@ -45,7 +45,11 @@ Here are a few nice tutorials:
 
 ### Compositing presets
 
-upd
+Chromatic aberration:
+
+<img src="compositing/compositing_chromatic_aberration.png"/>
+
+
 
 ### Geometry nodes
 
