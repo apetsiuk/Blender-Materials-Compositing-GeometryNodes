@@ -64,5 +64,12 @@ Selection:
 - [Selection using Boolean math](https://www.youtube.com/watch?v=aDuVQWNzFTg&ab_channel=OpenClass)
 
 
+## Scripting
 
+upd
+
+...
+
+TSP art
+Shortest path
 
