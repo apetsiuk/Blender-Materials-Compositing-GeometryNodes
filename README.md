@@ -9,8 +9,8 @@ Tested in v3.4.1. All the materials are procedural.
 | Material  | Image | Nodes  | Material | Image | Nodes |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Shiny plastic](https://www.youtube.com/watch?v=vJZsTG2bUF4&ab_channel=blenderian)  | <img src="materials/shiny_plastic.png"/> | <img src="materials/shiny_plastic_nodes.png"/> | [Translucent plastic](https://www.youtube.com/watch?v=vJZsTG2bUF4&ab_channel=blenderian)  | <img src="materials/translucent_plastic.png"/>  | <img src="materials/translucent_plastic_nodes.png"/> |
-| [Scratched Plastic](https://www.youtube.com/watch?v=l0whu3494_c&ab_channel=RyanKingArt)  | Image  | Node  | [Worn rubber](https://www.youtube.com/watch?v=bseCQqzT-b8&ab_channel=blenderbitesize)  | Image  | Node  |
-| [Glass1](https://www.youtube.com/watch?v=bIL1bvCwzlQ&ab_channel=NazariyD)  | Image  | Node  | [Glass2](https://www.youtube.com/watch?v=Upt8JaqtVxg&ab_channel=atti)  | Image  | Node  |
+| [Scratched Plastic](https://www.youtube.com/watch?v=l0whu3494_c&ab_channel=RyanKingArt)  | <img src="materials/scratched_plastic.png"/>  | <img src="materials/scratched_plastic_nodes.png"/>  | [Worn rubber](https://www.youtube.com/watch?v=bseCQqzT-b8&ab_channel=blenderbitesize)  | Image  | Node  |
+| [Glass1](https://www.youtube.com/watch?v=bIL1bvCwzlQ&ab_channel=NazariyD)  | <img src="materials/glass_1.png"/>  | <img src="materials/glass_1_nodes.png"/>  | [Glass2](https://www.youtube.com/watch?v=Upt8JaqtVxg&ab_channel=atti)  | Image  | Node  |
 | [Emissive](https://www.youtube.com/watch?v=Z3uCdffFq4E&ab_channel=Ducky3D) | Image  | Node  | [Glitter](https://www.youtube.com/watch?v=tUJ8m2WEvnE&ab_channel=Farrukh3D) | Image  | Node  |
 | [Brushed metal](https://www.youtube.com/watch?v=bCgPjfSSN50&ab_channel=RyanKingArt)  | Image  | Node  | [Rusty metal](https://www.youtube.com/watch?v=wg2OKSiHng0&ab_channel=CGKrab)  | Image  | Node  |
 | [Scratched metal](https://www.youtube.com/watch?v=qMCuDjXjsZ0&ab_channel=RyanKingArt)  | Image  | Node  | [Chrome](https://www.youtube.com/watch?v=4nOZ_Ivy17Q&ab_channel=NazariyD)  | Image  | Node  |
