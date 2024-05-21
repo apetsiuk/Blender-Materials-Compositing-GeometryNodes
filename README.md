@@ -2,7 +2,7 @@
 
 Tested in v3.4.1. All the materials are procedural.
 
-### Materials collection
+## Materials collection
 
 [Top 6 Blender Nodes To Make Any Material in Blender](https://www.youtube.com/watch?v=yffWd4kI51Q&ab_channel=CGCookie) by CGCookie.
 
@@ -33,7 +33,7 @@ Tested in v3.4.1. All the materials are procedural.
 
 
 
-### Lighting
+## Lighting
 
 Here are a few nice tutorials:
 
@@ -43,7 +43,8 @@ Here are a few nice tutorials:
 - [Blender Lighting Tutorial (from Cinematic Lighting course)](https://www.youtube.com/watch?v=1lsuB-teZ0E&ab_channel=GlebAlexandrov)
 
 
-### Compositing presets
+
+## Compositing presets
 
 Chromatic aberration:
 
@@ -51,8 +52,17 @@ Chromatic aberration:
 
 
 
-### Geometry nodes
+## Geometry nodes
 
-upd
+Selection:
 
-generative blender design
+- [Select What You Want in Geometry Nodes](https://www.youtube.com/watch?v=p4rwhifXNCw&ab_channel=Erindale)
+- [5 Basic Methods to Make a Selection](https://www.youtube.com/watch?v=5uFIeEFoXO8&ab_channel=Retroshaper)
+- [Basics Vertex Selection](https://www.youtube.com/watch?v=FXhj9jzfI_U&ab_channel=OpenClass)
+- [Select Points on a Curve](https://www.youtube.com/watch?v=_QbT_jOi_7Q&ab_channel=Xan3D)
+- [Blender Geometry Nodes Toolset Pack](https://www.youtube.com/watch?v=uwyaXLKYw4Y&ab_channel=higgsas)
+- [Selection using Boolean math](https://www.youtube.com/watch?v=aDuVQWNzFTg&ab_channel=OpenClass)
+
+
+
+
