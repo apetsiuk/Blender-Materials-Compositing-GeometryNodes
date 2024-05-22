@@ -43,6 +43,8 @@ Here are a few nice tutorials:
 - [12 Awesome COMPOSITOR EFFECTS for BLENDER](https://www.youtube.com/watch?v=8x2qfWNHedM&ab_channel=TheCGEssentials)
 - [Blender Lighting Tutorial (from Cinematic Lighting course)](https://www.youtube.com/watch?v=1lsuB-teZ0E&ab_channel=GlebAlexandrov)
 
+Lighting setup:
+<img src="lighting/lighting_setup.png"/>
 
 
 ## Compositing presets
