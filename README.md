@@ -20,19 +20,23 @@ Tested in v3.4.1. All the materials are procedural.
 | [Granite](https://www.youtube.com/watch?v=bPaZYBFE8dY&ab_channel=RyanKingArt)  | <img src="materials/granite.png"/>  | <img src="materials/granite_nodes.png"/>  | [Mossy dirt](https://www.youtube.com/watch?v=WAC_amUh__w&ab_channel=RyanKingArt)  | Image  | Node  |
 | [Thin film](https://www.youtube.com/watch?v=qpW6uowpTyE&ab_channel=MarioLiang)  | <img src="materials/thin_film.png"/>  | <img src="materials/thin_film_nodes.png"/>  | [Iridescent](https://www.youtube.com/watch?v=pfqdbw5vWG0&ab_channel=KamilKrb)  | <img src="materials/iridiscent.png"/>  | <img src="materials/iridiscent_nodes.png"/>  |
 | [Pearl](https://www.youtube.com/watch?v=8Yf1dWZiNrE&ab_channel=blenderbitesize)  | <img src="materials/pearl.png"/>  | <img src="materials/pearl_nodes.png"/>  | [Nacre](https://www.youtube.com/watch?v=DJuZBL4-dBc&ab_channel=thesparkofart)  | <img src="materials/nacre.png"/>  | <img src="materials/nacre_nodes.png"/>  |
-| [Ice](https://www.youtube.com/watch?v=qES5WMBXOWo&ab_channel=CGCookie)/[Snow](https://www.youtube.com/watch?v=GTfPLzVvM9I&ab_channel=RyanKingArt) | Image  | Node  | [Oil](https://www.youtube.com/watch?v=xcx_LfXuuX4&ab_channel=CartesianCaramel)  | <img src="materials/oil.png"/>  | <img src="materials/oil_nodes.png"/>  |
+| [Ice](https://www.youtube.com/watch?v=qES5WMBXOWo&ab_channel=CGCookie) | <img src="materials/ice.png"/>  | <img src="materials/ice_nodes.png"/>  | [Snow](https://www.youtube.com/watch?v=GTfPLzVvM9I&ab_channel=RyanKingArt) | <img src="materials/snow.png"/>  | <img src="materials/snow_nodes.png"/>  |
 | [Force field](https://www.youtube.com/watch?v=_07ozkBhZwg&ab_channel=Lsienn3d)  | <img src="materials/force_field.png"/>  | <img src="materials/force_field_nodes.png"/>  | [Lightening](https://www.youtube.com/watch?v=fHcuDamtc98&ab_channel=Simon3D)  | Image  | Node  |
 | [Toon shading (Eevee)](https://www.youtube.com/watch?v=4BB5BlPyVko&ab_channel=MarioLiang)  | <img src="materials/toon_hatch.png"/>  | <img src="materials/toon_hatch_nodes.png"/>  | [Marvel (Eevee)](https://www.youtube.com/watch?v=f_jF3H0Qppo&ab_channel=MarioLiang)  | <img src="materials/marvel.png"/>  | <img src="materials/marvel_nodes.png"/>  |
 | [Pastel (Eevee)](https://www.youtube.com/watch?v=vRALvQSS1vw&ab_channel=Kevandram)  | <img src="materials/pastel.png"/>  | <img src="materials/pastel_nodes.png"/>  | [Pencil (Eevee)](https://www.youtube.com/watch?v=vRALvQSS1vw&ab_channel=Kevandram)  | <img src="materials/pencil.png"/>  | <img src="materials/pencil_nodes.png"/>  |
 | [Gradient porcelain](https://www.youtube.com/watch?v=dGKNjsLylyc&ab_channel=blenderian)  | <img src="materials/gradient_porcelain.png"/>  | <img src="materials/gradient_porcelain_nodes.png"/>  | [Holographic](https://www.youtube.com/watch?v=Imwx_b-5OTw&ab_channel=SinaSinaie)  | <img src="materials/hologram.png"/>  | <img src="materials/hologram_nodes.png"/>  |
 | [Fabric](https://www.youtube.com/watch?v=XBcT4V4FLdo&ab_channel=RyanKingArt)  | <img src="materials/fabric_1.png"/>  | <img src="materials/fabric_1_nodes.png"/>  | [Crochet](https://www.youtube.com/watch?v=Anb_ctbroS8&ab_channel=100drips)  | <img src="materials/crochet.png"/>  | <img src="materials/crochet_nodes.png"/>  |
-| [Carbon fiber](https://www.youtube.com/watch?v=1qh2J4oQzy0&ab_channel=CGMasters)  | <img src="materials/carbon_fiber.png"/>  | <img src="materials/carbon_fiber_nodes.png"/>  | [Paper](https://www.youtube.com/watch?v=tL7rp4sOq5k&ab_channel=Interactiv)  | Image  | Node  |
+| [Carbon fiber](https://www.youtube.com/watch?v=1qh2J4oQzy0&ab_channel=CGMasters)  | <img src="materials/carbon_fiber.png"/>  | <img src="materials/carbon_fiber_nodes.png"/>  | [Oil](https://www.youtube.com/watch?v=xcx_LfXuuX4&ab_channel=CartesianCaramel) | <img src="materials/oil.png"/>  | <img src="materials/oil_nodes.png"/>  |
 | [Alien skin](https://www.youtube.com/watch?v=qa3QXnyWd_0&ab_channel=atti)  | Image  | Node  | [Reptile skin](https://www.youtube.com/watch?v=EsS0ulWckGM&ab_channel=Ducky3D)  | <img src="materials/reptile_skin.png"/>  | <img src="materials/reptile_skin_nodes.png"/>  |
 | [Feather](https://www.youtube.com/watch?v=txs2QkoI4Oc&ab_channel=Nino)  | Image  | Node  | [Fur](https://www.youtube.com/watch?v=cdm-e6Z8Vww&ab_channel=atti) | Image  | Node  |
-| ...  | ...  | ...  | ...  | ...  | ...  |
+| [Paper](https://www.youtube.com/watch?v=tL7rp4sOq5k&ab_channel=Interactiv)  | ...  | ...  | ...  | ...  | ...  |
 
 
+## Geometry nodes collection
 
+| Tutorial  | Image | Nodes  | Tutorial | Image | Nodes |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Voxelization](https://www.youtube.com/watch?v=ybCL0Ast3ok&ab_channel=JimmyGunawan)  | <img src="geometry_nodes/voxelization.png"/> | <img src="geometry_nodes/voxelization_nodes.png"/> | [Translucent plastic](https://www.youtube.com/watch?v=vJZsTG2bUF4&ab_channel=blenderian)  | <img src="geometry_nodes/voxelization.png"/>  | <img src="geometry_nodes/voxelization_nodes.png"/> |
 
 
 ## Lighting
