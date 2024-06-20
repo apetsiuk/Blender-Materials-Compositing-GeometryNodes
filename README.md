@@ -34,9 +34,12 @@ Tested in v3.4.1. All the materials are procedural.
 
 ## Geometry nodes collection
 
+Blender 4.1.
+
 | Tutorial  | Image | Nodes  | Tutorial | Image | Nodes |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Voxelization](https://www.youtube.com/watch?v=ybCL0Ast3ok&ab_channel=JimmyGunawan)  | <img src="geometry_nodes/voxelization.png"/> | <img src="geometry_nodes/voxelization_nodes.png"/> | [Translucent plastic](https://www.youtube.com/watch?v=vJZsTG2bUF4&ab_channel=blenderian)  | <img src="geometry_nodes/voxelization.png"/>  | <img src="geometry_nodes/voxelization_nodes.png"/> |
+| [Voxelization](https://www.youtube.com/watch?v=ybCL0Ast3ok&ab_channel=JimmyGunawan)  | <img src="geometry_nodes/voxelization.png"/> | <img src="geometry_nodes/voxelization_nodes.png"/> | [Neuron fractal](https://www.youtube.com/watch?v=nXCSMO4iioA&ab_channel=StrayCreations)  | <img src="geometry_nodes/neuron_fractal.png"/>  | <img src="geometry_nodes/neuron_fractal_nodes.png"/> |
+| [Mesh Topology](https://www.youtube.com/watch?v=arkX5TEiORY&ab_channel=3DSinghVFX)  | <img src="geometry_nodes/mesh_topology.png"/> | <img src="geometry_nodes/mesh_topology_nodes.png"/> | [Neuron fractal](https://www.youtube.com/watch?v=nXCSMO4iioA&ab_channel=StrayCreations)  | <img src="geometry_nodes/neuron_fractal.png"/>  | <img src="geometry_nodes/neuron_fractal_nodes.png"/> |
 
 
 ## Lighting
